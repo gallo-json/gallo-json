@@ -4,4 +4,4 @@
 - 🐞 I’m currently fixing a Golang HTTP socket bug
 - 📫 How to reach me: Linkedln or Github
 - 😄 Pronouns: He/him
-- 🎯 Goals for 2021: Document and comment my code more
+- 🎯 Goals for 2022: Document and comment my code more
